@@ -1,0 +1,24 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Hi, I'm Asako."
+    },
+    {
+      "id": 2,
+      "title": "Javascript is so hard...."
+    },
+    {
+      "id": 3,
+      "title": "Please add lists"
+    },
+    {
+      "title": "Posts can edit",
+      "id": 4
+    },
+    {
+      "title": "Posts can add",
+      "id": 7
+    }
+  ]
+}
